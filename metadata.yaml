@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3840
     wikipedia: http://en.wikipedia.org/wiki/George_Manville_Fenn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21316#The-Adventures-of-Don-Lavington--Nolens-Volens
 gutenberg_bookshelf: New Zealand
 gutenberg_issued: '2007-05-04'
 gutenberg_type: Text
